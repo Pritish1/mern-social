@@ -12,3 +12,6 @@ dropzone - will handle file upload on the front-end so that we can send it to th
 dotenv - for environment variables
 formik - for form data
 yup - for validation
+
+
+npm run start -> for running the front-end.
